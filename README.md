@@ -165,6 +165,4 @@ The agent has access to tools from both MCP servers:
 - [Model Context Protocol](https://modelcontextprotocol.io)
 - [MCP Servers Repository](https://github.com/modelcontextprotocol/servers)
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
